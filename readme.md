@@ -7,7 +7,6 @@
 ### Все экраны приложения
 
 <p float="left">
-  <img src="screenshots/splash_screen.png" width="150" />
   <img src="screenshots/create_account_screen.png" width="150" />
   <img src="screenshots/login_screen.png" width="150" />
   <img src="screenshots/password_screen.png" width="150" />
